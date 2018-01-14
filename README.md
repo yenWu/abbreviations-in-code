@@ -68,6 +68,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 
 ## D
 * **db** database
+* **dealloc** deallocate
 * **dec** decimal
 * **def** default
 * **del** delete
